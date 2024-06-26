@@ -1,0 +1,163 @@
+[
+   {
+      "image":"/items/items1/001.png",
+      "title":"1",
+      "type":"Активное событие",
+      "description":"Получите +1 к итоговому значению следующего броска.",
+      "charge":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/002.png",
+      "title":"2",
+      "type":"Активное событие",
+      "description":"Получите -1 к итоговому значению следующего броска.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/003.png",
+      "title":"3",
+      "type":"Активное событие",
+      "description":"Получите +2 к итоговому значению следующего броска.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/004.png",
+      "title":"4",
+      "type":"Активное событие",
+      "description":"Получите -2 к итоговому значению следующего броска.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/005.png",
+      "title":"5",
+      "type":"Активное событие",
+      "description":"Переместитесь на клетку \"Аукошная\" и пройдите там игру.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/006.png",
+      "title":"6",
+      "type":"Активное событие",
+      "description":"Переместитесь на клетку \"Лотерея\" и пройдите там игру.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/007.png",
+      "title":"7",
+      "type":"Активное событие",
+      "description":"Переместитесь на клетку с противоположной от вас стороны и пройдите там игру.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/008.png",
+      "title":"8",
+      "type":"Активное событие",
+      "description":"Получите 1 поинт.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/009.png",
+      "title":"9",
+      "type":"Активное событие",
+      "description":"Потеряйте 1 поинт.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/010.png",
+      "title":"10",
+      "type":"Активное событие",
+      "description":"Верхний порог времени следующей клетки ниже на 2 часа.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/011.png",
+      "title":"11",
+      "type":"Активное событие",
+      "description":"Текущее преодоление всего игрового поля дает лишь 2 поинта, вместо 5.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/012.png",
+      "title":"12",
+      "type":"Активное событие",
+      "description":"Вернитесь на клетку, с которой вы начинали текущий ход и совершите ход заново.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/013.png",
+      "title":"13",
+      "type":"Активное событие",
+      "description":"Если участник на момент выпадения этого пункта находится в первой половине участников по поинтам, он получает -2 к своему следующему броску кубика для перехода по секторам. Если нет то +2.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/014.png",
+      "title":"14",
+      "type":"Активное событие",
+      "description":"Следующая игра ролится по \"жанровым\" правилам.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/015.png",
+      "title":"15",
+      "type":"Активное событие",
+      "description":"Следующая игра ролится по \"обычным\" правилам.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/items1/016.png",
+      "title":"16",
+      "type":"Активное событие",
+      "description":"Киньте 3 кубика. Выберите два из них и переместитесь на сумму их значений.",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   }
+
+]
+
