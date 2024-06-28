@@ -17,7 +17,6 @@
  * ]),
  */
 const videosFree = [
-    () => p5Wheel.random([
         ['videos/01.mov', 0],
         ['videos/02.mp4', 0],
         ['videos/03.mp4', 0],
@@ -48,6 +47,5 @@ const videosFree = [
         ['videos/28.mp4', 0],
         ['videos/29.mp4', 0],
         ['videos/30.mp4', 0],
-        ['videos/31.mp4', 0],
-    ])  
+        ['videos/31.mp4', 0], 
 ];
