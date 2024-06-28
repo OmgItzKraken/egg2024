@@ -133,6 +133,7 @@ function GifPlayer(p) {
     };
     p.setIsAnimated = (state) => {
         isAnimated = state;
+        p.clear();
       
     };
     p.moveAnimation = (delta) => {
