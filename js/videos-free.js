@@ -47,5 +47,11 @@ const videosFree = [
         ['videos/28.mp4', 0],
         ['videos/29.mp4', 0],
         ['videos/30.mp4', 0],
-        ['videos/31.mp4', 0], 
+        ['videos/31.mp4', 0],
+        ['videos/32.mp4', 0],
+        ['videos/33.mp4', 0],
+        ['videos/34.mp4', 0],
+        ['videos/35.mp4', 0],
+        ['videos/36.mp4', 0],
+        ['videos/37.mp4', 0],
 ];
